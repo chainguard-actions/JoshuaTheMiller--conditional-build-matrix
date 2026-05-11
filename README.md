@@ -8,6 +8,7 @@ Hardened by [Chainguard](https://www.chainguard.dev) from the upstream action at
 
 | Version | Tag | Upstream commit |
 |---------|-----|-----------------|
+| v1.0.0 | [`v1.0.0`](https://github.com/chainguard-actions/conditional-build-matrix/tree/v1.0.0) | — |
 | v2.0.1 | [`v2.0.1`](https://github.com/chainguard-actions/conditional-build-matrix/tree/v2.0.1) | — |
 
 ## Privacy
