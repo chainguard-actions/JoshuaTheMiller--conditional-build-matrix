@@ -1,0 +1,5 @@
+[
+  {"platform": "linux", "arch": "amd64", "include": true},
+  {"platform": "linux", "arch": "arm64", "include": false},
+  {"platform": "windows", "arch": "amd64", "include": true}
+]
