@@ -1,0 +1,5 @@
+[
+  { "os": "ubuntu-latest", "env": "production" },
+  { "os": "windows-latest", "env": "staging" },
+  { "os": "ubuntu-latest", "env": "staging" }
+]
